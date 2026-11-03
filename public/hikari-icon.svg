@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#171717"/>
+  <path d="M150 120v272M362 120v272M150 256h212" fill="none" stroke="#D6B66D" stroke-width="28" stroke-linecap="round"/>
+  <text x="256" y="455" font-family="Georgia,serif" font-size="42" text-anchor="middle" fill="#F5F0E6">HIKARI</text>
+</svg>

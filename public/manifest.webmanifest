@@ -1,0 +1,12 @@
+{
+  "name": "HIKARI WEDDING",
+  "short_name": "HIKARI",
+  "description": "Quản lý studio cưới HIKARI WEDDING",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#171717",
+  "theme_color": "#171717",
+  "icons": [
+    { "src": "/hikari-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
